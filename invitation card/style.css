@@ -1,0 +1,29 @@
+.title{
+    font-size:50px;
+    color: red;
+}
+.m1{
+    text-align: center;
+}
+span{
+    font-size: 40px;
+    color: rgb(43, 86, 226);
+}
+h4{
+    margin-right: 40px;
+}
+div{
+    border: 1px solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding:50px 100px;
+    position: relative;
+}
+img{
+
+    position: absolute;
+    top: 0;
+    left:0;
+    width: 50%;
+}
