@@ -16,13 +16,13 @@ data = [
   number=0
 
 function muaapple(){
-   number= number+10
+   number= number+ data[3].price
 }
 function muabanana(){
-   number= number+27
+   number= number+data[1].price
 }
 function muaorange(){
-    number=number+15
+    number=number+data[2].price
 }
 
 
