@@ -1,0 +1,132 @@
+.heading {
+    border: 2px solid black;
+    color: red;
+    font-size: 100px;
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 50px;
+    margin-inline: 250px;
+    border-radius: 20px;
+    position: relative;
+    top: 30px;
+    background-color:cornsilk;
+}
+ .icon{
+    
+ }
+ 
+body{
+    background-image:  url(https://png.pngtree.com/thumb_back/fh260/background/20201026/pngtree-futuristic-shape-abstract-background-chemistry-technology-concept-for-website-image_438818.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.icon{
+    color: black;
+}
+ .fixed{
+    background-color: cornsilk;
+    border: 3px solid;
+    display: flex;
+    justify-content:space-evenly;
+    position: fixed;
+    width: 100%;
+    top:0;
+    left: 0;
+    padding-bottom: 30px;
+    padding: auto;
+
+ }
+
+ .icon1{
+    zoom: 300%;
+    
+ }
+ .icondes{
+    position: relative;
+    top: 40px;
+    right: 150px;
+ }
+ a {
+    color: inherit;
+  }
+
+  img{
+width:250px ;
+height: 300px
+}
+  
+
+body{
+    height: 1000px;
+    margin: 0;
+    max-width: 100% !important;
+}
+
+.items{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    gap: 150px;
+    
+
+}
+
+
+.item1{
+    border: 1px solid black;
+padding:20px ;
+    border-radius: 20px ;
+font-weight: bold;
+color: aqua;
+background-color: black;
+
+}
+
+.item2{
+    border: 1px solid black;
+padding:20px;
+    border-radius: 20px;
+font-weight: bold;
+color: gold;
+background-color: black;
+
+
+}
+
+.item3{
+    border: 1px solid black;
+padding: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+    color: aquamarine;
+    background-color: black;
+
+
+}
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:#2A2B2D;
+    width: 95%;
+    color:#FEFEFE;
+    padding:16px 52px;
+    border: 3px solid black;
+    border-radius:10px;
+    gap: 200px;
+}
+
+.khoi{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+width: 30%;
+
+
+}
